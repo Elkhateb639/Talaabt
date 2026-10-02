@@ -154,10 +154,4 @@ Backend Developer (.NET)
   </a>
 </p>
 
----
 
-<div align="center">
-
-⭐ Feel free to explore the repository and test the API through [Swagger](https://talabat639.runasp.net/swagger/index.html).
-
-</div>
